@@ -1,7 +1,7 @@
 # Map vs List Comparator
 
-The project compares the time needed to find a given element in a Map vs the time needed to find a given element in a
-List.
+The project compares the time needed to find a given element in a map vs the time needed to find a given element in a
+list.
 
 ## To note
 
